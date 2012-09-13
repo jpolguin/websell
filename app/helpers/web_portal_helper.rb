@@ -1,0 +1,2 @@
+module WebPortalHelper
+end

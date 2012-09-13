@@ -1,0 +1,97 @@
+/* Global styles */
+
+body {
+	margin-bottom: 0px;
+	margin: 0;
+  	width:100%;
+  	height:768;
+  	background: #eeeeee;
+}
+
+/* Styles for main page */
+#banner {
+background: #9c9 ;
+padding-top: 10px;
+padding-bottom: 6px;
+border-bottom: 2px solid;
+font: small-caps 40px/40px "Times New Roman", serif;
+color: #282 ;
+text-align: center;
+}
+
+#banner .beta {
+background: #9c9 ;
+/*padding-top: 5px;
+border-bottom: 2px solid;*/
+font: bold 12px/12px "Times New Roman", serif;
+color: #282 ;
+text-align: left;
+}
+
+a:link {
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: normal;
+	color: #117148;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: normal;
+	color: #233333;
+	text-decoration: none;
+}
+a:visited {
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: normal;
+	color: #117148;
+	text-decoration: underline;
+}
+
+
+#banner img {
+float: left;
+}
+
+#columns {
+float: left;    
+background:  #eeeeee ;
+}
+
+#main {
+margin-left: 5em;
+padding-top: 0.5em;
+padding-left: 1em;
+background: #eeeeee;
+}
+
+
+#menuside {
+float: left;
+padding-top: 1em;
+padding-left: 1em;
+padding-bottom: 1em;
+width: 4em;
+background: #141 ;
+}
+
+#menuside {
+float:left;
+text-align:left;
+padding-top: 0em;
+padding-left: 0em;
+padding-bottom: 0em;
+padding-right: 0em;
+width:3em;
+background: #eeeeee;
+}
+
+#menuside table {
+height:35px;
+margin-left:0px;
+width:90%;
+}
+
+
